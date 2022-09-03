@@ -1,7 +1,7 @@
 # blingcat
 
 ## Team Members
-This section is a list of team members, and possibly links to GitHub/GitLab/LinkedIn/personal blog pages for members.
+Duane Steel
 
 ## Tool Description
 workflow system for network analysis. 
